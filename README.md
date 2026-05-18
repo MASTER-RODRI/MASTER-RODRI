@@ -44,8 +44,8 @@ Me apasiona transformar problemas complejos en soluciones de software escalables
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=visual_studio_dark&langs_count=6" alt="Lenguajes más usados" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MASTER-RODRI&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTER-RODRI&layout=compact&theme=visual_studio_dark&langs_count=6" alt="Lenguajes más usados" height="180"/>
 </p>
 
 ---
